@@ -1,6 +1,7 @@
 # DD2-Auto-Heatstone
 video game mod
-A tiny quality-of-life [QOL] mod for Dragon’s Dogma 2: Dark Arisen that automatically uses a Heatstone when the game detects the Cold/Chilled condition.
+
+A tiny quality-of-life [QOL] mod for Dragon’s Dogma 2: Dark Arisen [DD2] that automatically uses a Heatstone when the game detects the Cold/Chilled condition.
 I made this because constantly opening the inventory just to use a Heatstone during Norgan whiteouts became annoying. This mod does one thing and one thing only:
 Cold activates → automatically use one Heatstone.
 Nothing more.
